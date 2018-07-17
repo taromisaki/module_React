@@ -1,6 +1,6 @@
 # vuemod
 
-> A Vue.js project
+> A React project
 
 ## Build Setup
 
