@@ -12,9 +12,9 @@ export default (state = {}, action) => {
       }
   }
 
-  return {
-    ...state,
-    logoInfo: { sta: true },
-    logo: 'yes'
-  }
+  // return {
+  //   ...state,
+  //   logoInfo: { sta: true },
+  //   logo: 'yes'
+  // }
 }
